@@ -41,3 +41,4 @@ else:
          else:
              resultat = nombre1 / nombre2
      print(resultat)
+input("Appuyez sur Entrée pour quitter...")
